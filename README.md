@@ -4,3 +4,4 @@ Containing 3 links that lead to different parts of the site such as Imanges, Con
 The Image file has two images just for the challenge.
 The Contact file has my contacts.
 And the homepage is just a homepage with simple informations.
+file:///C:/Users/guilh/Documents/vscode/Projeto/Index.html
